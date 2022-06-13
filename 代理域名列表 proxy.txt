@@ -16554,7 +16554,6 @@ payload:
   - '+.lzqp2019.com'
   - '+.m-orig.discoverhongkong.com'
   - '+.m-power.com'
-  - '+.m-team.cc'
   - '+.m.0000hg.com'
   - '+.m.10611.com'
   - '+.m.12manapp.com'
